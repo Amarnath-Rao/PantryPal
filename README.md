@@ -1,4 +1,7 @@
-## PantryPal
+# PantryPal
+
+![_2965934b-a70c-4dca-b4e6-f428ffdd3b2a](https://github.com/Amarnath-Rao/PantryPal/assets/96937608/1a91da40-5313-424e-8686-223dabe704af)
+
 
 PantryPal is an MVP application that suggests recipes based on the contents of your fridge. Users can upload photos of their fridge, set some parameters, and receive suggestions on what to cook along with the steps based on their parameters and items.
 
@@ -37,9 +40,17 @@ Flagsmith can serve as:
 
 5. **Real-time Updates**: With Flagsmith, our project can make changes to feature flags in real-time without redeploying your application. This flexibility allows for rapid iteration and responsiveness to changing user needs or market conditions.
 
-Overall, Flagsmith enhances the agility, control, and adaptability of your application by providing a centralized platform for managing feature flags and configurations. It empowers project to make data-driven decisions, experiment with new ideas, and optimize user experiences more effectively.
+- Overall, Flagsmith enhances the agility, control, and adaptability of your application by providing a centralized platform for managing feature flags and configurations. It empowers project to make data-driven decisions, experiment with new ideas, and optimize user experiences more effectively.
 
-Due to technical issues with MindsDB, such as syntax errors when creating tables and inserting data, as well as memory limitations when hosting on a server, the project opted to explore alternative solutions. This led to consideration of using Prisma as a reliable data source for saving data.
+- Through Flagsmith SaaS, we could have seamlessly deployed our project, PantryPal, by leveraging its feature flag and configuration management capabilities. Flagsmith would have allowed us to control feature rollouts, experiment with new functionalities, and dynamically configure aspects of our application in real-time. By utilizing Flagsmith, we could have enhanced the agility and adaptability of our project, enabling us to make data-driven decisions and optimize user experiences more effectively.
+
+- Due to technical issues with MindsDB, such as syntax errors when creating tables and inserting data, as well as memory limitations when hosting on a server, the project opted to explore alternative solutions. This led to consideration of using Prisma as a reliable data source for saving data.
+
+
+
+
+https://github.com/Amarnath-Rao/PantryPal/assets/96937608/87800682-4661-4e55-9863-a779f0cb95a0
+
 
 
 ### Setup
@@ -91,6 +102,9 @@ Due to technical issues with MindsDB, such as syntax errors when creating tables
     ```
 
 2. **Open your web browser and visit [http://localhost:8501](http://localhost:8501) to view the application.**
+
+
+![image](https://github.com/Amarnath-Rao/PantryPal/assets/96937608/136caa2a-b296-44c5-a34a-8f6ec681bdef)
 
 ### Running the Tests
 
